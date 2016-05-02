@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./litteraequadrime1301lain_0762.png"; bbox 0 0 1987 3260; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 681 1385 1783 1612">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 681 1385 1783 1612">
+     <span class='ocr_line' id='line_1_1' title="bbox 727 1385 1781 1434; baseline -0.003 -11"><span class='ocrx_word' id='word_1_1' title='bbox 727 1387 918 1431; x_wconf 82' lang='lat' dir='ltr'>Nomina,</span> <span class='ocrx_word' id='word_1_2' title='bbox 946 1397 1049 1433; x_wconf 86' lang='lat' dir='ltr'>quae</span> <span class='ocrx_word' id='word_1_3' title='bbox 1075 1398 1095 1421; x_wconf 86' lang='lat' dir='ltr'>a</span> <span class='ocrx_word' id='word_1_4' title='bbox 1125 1386 1249 1421; x_wconf 87' lang='lat' dir='ltr'>verbo</span> <span class='ocrx_word' id='word_1_5' title='bbox 1270 1385 1558 1434; x_wconf 81' lang='lat' dir='ltr'>Superscriptio</span> <span class='ocrx_word' id='word_1_6' title='bbox 1586 1385 1634 1420; x_wconf 78' lang='lat' dir='ltr'>ad</span> <span class='ocrx_word' id='word_1_7' title='bbox 1663 1385 1781 1420; x_wconf 84' lang='lat' dir='ltr'><strong>finem</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 681 1443 1783 1494; baseline -0.005 -11"><span class='ocrx_word' id='word_1_8' title='bbox 681 1458 810 1494; x_wconf 81' lang='lat' dir='ltr'>usque</span> <span class='ocrx_word' id='word_1_9' title='bbox 831 1446 1081 1494; x_wconf 81' lang='lat' dir='ltr'>singularum</span> <span class='ocrx_word' id='word_1_10' title='bbox 1103 1444 1365 1491; x_wconf 81' lang='lat' dir='ltr'>epistolarum</span> <span class='ocrx_word' id='word_1_11' title='bbox 1396 1443 1668 1491; x_wconf 75' lang='lat' dir='ltr'>reperiuntur,</span> <span class='ocrx_word' id='word_1_12' title='bbox 1691 1455 1783 1479; x_wconf 85' lang='lat' dir='ltr'>con-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 681 1503 1779 1551; baseline -0.003 -10"><span class='ocrx_word' id='word_1_13' title='bbox 681 1506 806 1551; x_wconf 85' lang='lat' dir='ltr'>sulto,</span> <span class='ocrx_word' id='word_1_14' title='bbox 837 1517 885 1541; x_wconf 86' lang='lat' dir='ltr'>ne</span> <span class='ocrx_word' id='word_1_15' title='bbox 918 1504 1119 1540; x_wconf 77' lang='lat' dir='ltr'>inutiliter</span> <span class='ocrx_word' id='word_1_16' title='bbox 1145 1504 1304 1550; x_wconf 78' lang='lat' dir='ltr'>saepius</span> <span class='ocrx_word' id='word_1_17' title='bbox 1339 1503 1509 1550; x_wconf 79' lang='lat' dir='ltr'>repetita</span> <span class='ocrx_word' id='word_1_18' title='bbox 1542 1510 1779 1550; x_wconf 75' lang='lat' dir='ltr'>appareant,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 685 1565 1041 1612; baseline 0.006 -12"><span class='ocrx_word' id='word_1_19' title='bbox 685 1565 1041 1612; x_wconf 51' lang='lat' dir='ltr'>praetermisimus</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
